@@ -1,4 +1,4 @@
-public class average {
+public class Average {
     public static void main(String[] args) {
        float num1=7; 
        float num2=8;
