@@ -4,6 +4,6 @@ public class Fahrenheit {
       double fahrenheit = 80;
       double celsius = (5.0/9.0) * (fahrenheit-32);
       System.out.println("fahrenheit =" +fahrenheit);
-      System.out.println("celsius =" +celsius);
+      System.out.println("celsius =" +celsius +"bye bye!");
     }
 }
